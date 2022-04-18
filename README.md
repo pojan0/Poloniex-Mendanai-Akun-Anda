@@ -1,6 +1,6 @@
-<br>
-## Bagaimana Cara menyetor koin
-<br>
+
+##Bagaimana Cara menyetor koin
+
 **Aplikasi**
 
 1. Ketuk ikon **Dompet** di sudut kiri bawah layar Anda
